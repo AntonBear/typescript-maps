@@ -9,7 +9,7 @@ let nothing1: undefined = undefined
 let now: Date = new Date()
 
 // array
-let colors: string[] = ['red', 'yellow', 'grey']
+let colors1: string[] = ['red', 'yellow', 'grey']
 let numbers: number[] = [1, 2, 3]
 let results: boolean[] = [false, true, true]
 
